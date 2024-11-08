@@ -8,11 +8,7 @@ Further information about Cunni Core is available in the [doc folder](/doc).
 What is Cunni?
 -------------
 
-Cunni is an experimental digital currency that enables instant, private
-payments to anyone, anywhere in the world. Cunni uses peer-to-peer technology
-to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. Cunni Core is the name of the open
-source software which enables the use of this currency.
+Cunni is an experimental digital currency.
 
 
 For more information read the original Cunni whitepaper.
