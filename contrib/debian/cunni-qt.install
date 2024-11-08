@@ -1,0 +1,6 @@
+usr/local/bin/cunni-qt usr/bin
+share/pixmaps/cunni32.xpm usr/share/pixmaps
+share/pixmaps/cunni16.xpm usr/share/pixmaps
+share/pixmaps/cunni128.png usr/share/pixmaps
+debian/cunni-qt.desktop usr/share/applications
+debian/cunni-qt.protocol usr/share/kde4/services/

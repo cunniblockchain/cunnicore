@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/cunni_ar.ts \
+  qt/locale/cunni_bg.ts \
+  qt/locale/cunni_de.ts \
+  qt/locale/cunni_en.ts \
+  qt/locale/cunni_es.ts \
+  qt/locale/cunni_fi.ts \
+  qt/locale/cunni_fr.ts \
+  qt/locale/cunni_it.ts \
+  qt/locale/cunni_ja.ts \
+  qt/locale/cunni_ko.ts \
+  qt/locale/cunni_nl.ts \
+  qt/locale/cunni_pl.ts \
+  qt/locale/cunni_pt.ts \
+  qt/locale/cunni_ro.ts \
+  qt/locale/cunni_ru.ts \
+  qt/locale/cunni_sk.ts \
+  qt/locale/cunni_th.ts \
+  qt/locale/cunni_tr.ts \
+  qt/locale/cunni_vi.ts \
+  qt/locale/cunni_zh_CN.ts \
+  qt/locale/cunni_zh_TW.ts

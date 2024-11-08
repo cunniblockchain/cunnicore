@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Cunni Core
+Comment=Cunni P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Cunni peer-to-peer Netzwerk
+Comment[fr]=Cunni, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Cunni, eşten eşe kriptografik sanal para birimi
+Exec=cunni-qt %u
+Terminal=false
+Type=Application
+Icon=cunni128
+MimeType=x-scheme-handler/cunni;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Cunni-qt

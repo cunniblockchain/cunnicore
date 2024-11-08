@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[cunni.cunni_ents]
+file_filter = src/qt/locale/cunni_<lang>.ts
+source_file = src/qt/locale/cunni_en.xlf
+source_lang = en
